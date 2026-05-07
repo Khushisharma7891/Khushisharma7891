@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khushi Sharma</h1>
 
-<h3 align="center">🎓 BCA Graduate (2026) | 💻 Aspiring Software Developer | 🚀 Learning & Building Projects</h3>
+<h3 align="center">Aspiring Software Developer | BCA Graduate | Building Web Projects 🚀</h3>
 
 ---
 
