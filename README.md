@@ -10,15 +10,15 @@ Aspiring Web Developer and Python enthusiast focused on building responsive real
 
 ## 👩‍💻 About Me
 
-- 🎓 BCA Graduate (2026) from Galgotias University  
-- 💻 Interested in Web Development and Software Development  
-- 🌱 Currently learning JavaScript, React, and modern development tools  
-- 🚀 Building practical projects to strengthen technical and problem-solving skills  
-- 📚 Focused on continuous learning and professional growth  
+- BCA Graduate (2026) from Galgotias University  
+- Interested in Web Development and Software Development  
+- Currently learning JavaScript, React, and modern development tools  
+- Building practical projects to strengthen technical and problem-solving skills  
+- Focused on continuous learning and professional growth  
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 <p align="left">
 
@@ -28,9 +28,9 @@ Aspiring Web Developer and Python enthusiast focused on building responsive real
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔹 Smart City Explorer
+### Smart City Explorer
 An interactive map-based web application built using HTML, CSS, JavaScript, and Leaflet.js.  
 The application allows users to search locations, calculate routes, and explore nearby places such as hospitals, restaurants, and metro stations.
 
@@ -39,12 +39,12 @@ https://khushisharma7891.github.io/Smart-City-Explorer-/
 
 ---
 
-### 🔹 Salon Website
+### Salon Website
 A responsive salon website designed to showcase services, pricing, appointments, and contact details with a clean and modern interface.
 
 ---
 
-### 🔹 URL Shortener
+### URL Shortener
 A Python-based project that converts long URLs into shorter and more manageable links while improving understanding of programming logic and string handling.
 
 🔗 GitHub Repository  
@@ -62,7 +62,7 @@ https://github.com/Khushisharma7891/Code-with-python
 
 ## 📄 Resume
 
-📌 Resume available on request.
+       Resume available on request.
 
 ---
 
@@ -103,5 +103,5 @@ https://github.com/Khushisharma7891/Code-with-python
 </p>
 
 <p align="center">
-Thank you for visiting my profile ✨
+Thank you for visiting my profile 
 </p>
