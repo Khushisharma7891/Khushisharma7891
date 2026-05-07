@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Khushi%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Developer%20%7C%20BCA%20Graduate&descAlignY=58"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=Khushi%20Sharma&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Web%20Developer%20%7C%20Python%20Enthusiast%20%7C%20Building%20Projects&descAlignY=60&descSize=18"/>
 </p>
 
 <h3 align="center">
-Passionate about building responsive web applications, learning modern technologies, and improving through practical projects.
+Aspiring Web Developer and Python enthusiast focused on building responsive real-world projects and continously enhancing technical skills.
 </h3>
 
 ---
