@@ -22,7 +22,7 @@ Passionate about building responsive web applications, learning modern technolog
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,java,git,github,vscode,postgresql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,postgresql" />
 
 </p>
 
