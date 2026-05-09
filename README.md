@@ -62,9 +62,11 @@ https://github.com/Khushisharma7891/Code-with-python
 
 ## 📄 Resume
 
-       Resume available on request.
-
----
+<p align="left">
+<a href="https://drive.google.com/file/d/1cAjXKP0xYsW_BsZZ3_oRVDcsF6K7X1H0/view?usp=drive_link" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+</p>
 
 ## 📊 GitHub Statistics
 
