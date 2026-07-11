@@ -1,91 +1,63 @@
-<h1 align="center">Khushi Sharma</h1>
-<p align="center"><i>Web Developer · Python & ML Enthusiast · Delhi, India</i></p>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:khushisharma13144@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/khushi-sharma-75b2b9290/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Khushisharma7891">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://khushisharma7891.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-24243E?style=flat-square&logo=googlechrome&logoColor=white"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1cAjXKP0xYsW_BsZZ3_oRVDcsF6K7X1H0/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-C1272D?style=flat-square&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
-</p>
+# Khushi Sharma
+
+**Web Developer · Python & ML Enthusiast**
+
+[![Email](https://img.shields.io/badge/Email-6C63FF?style=flat-square&logo=gmail&logoColor=white)](mailto:khushisharma13144@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6C63FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-sharma-6601672b1)
+[![GitHub](https://img.shields.io/badge/GitHub-6C63FF?style=flat-square&logo=github&logoColor=white)](https://github.com/Khushisharma7891)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=flat-square&logo=googlechrome&logoColor=white)](https://khushisharma7891.github.io/portfolio/)
+[![Resume](https://img.shields.io/badge/Resume-6C63FF?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1cAjXKP0xYsW_BsZZ3_oRVDcsF6K7X1H0/view?usp=drive_link)
+
+</div>
 
 <br>
 
-## About Me
+## About
 
-I'm a BCA graduate (Galgotias University, 2026) building toward a career in web development and applied machine learning. I like taking projects from idea to something actually live and usable — not just code on a local machine.
+BCA graduate (Galgotias University, 2026) building toward a career in web development and applied machine learning. I like taking projects from idea to something actually live and usable — not just code on a local machine. Every project below is deployed and demoable, not just a repo.
 
-- Currently sharpening my JavaScript, React, and Python skills
-- Learn best by building — every project below is deployed and demoable
-- Interested in frontend/full-stack roles, with a growing interest in applied ML
+Currently sharpening React and deepening my applied ML work, with a focus on frontend/full-stack roles.
+
+<br>
 
 ## Skills
 
-**Languages:** JavaScript, Python, SQL, HTML5, CSS3
-**Frontend:** React.js, Responsive Design, Leaflet.js
-**Backend:** Node.js, Flask, REST APIs
-**ML / Data:** Scikit-learn, Pandas, NumPy, Power BI
-**Databases:** PostgreSQL, MongoDB
-**Tools:** Git, GitHub, VS Code, Vercel
+|  |  |
+|---|---|
+| **Languages** | JavaScript (ES6+), Python, SQL, HTML5, CSS3 |
+| **Frontend** | React.js, Responsive Design, Leaflet.js |
+| **Backend** | Node.js, Flask, REST APIs |
+| **ML / Data** | Scikit-learn, Pandas, NumPy, Power BI |
+| **Databases** | PostgreSQL, MongoDB |
+| **Tools** | Git, GitHub, VS Code, Vercel |
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,postgres,git,github,vscode" />
-</p>
+<br>
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### [HousePriceAI — California House Price Predictor](https://house-price-ai-wheat.vercel.app/)
+End-to-end ML web app predicting house prices using a Random Forest model trained on the California Housing Dataset. Owned the full pipeline — preprocessing, feature engineering, and model evaluation — then deployed it live for public use.
 
-**[🏠 HousePriceAI — House Price Predictor](https://house-price-ai-wheat.vercel.app/)**
+`Python` `Scikit-learn` `Pandas` `Vercel`
 
-End-to-end ML web app predicting California house prices with a Random Forest model — full pipeline from preprocessing to deployment.
+### [Smart City Explorer](https://khushisharma7891.github.io/Smart-City-Explorer-/)
+Interactive map app for locating nearby hospitals, metro stations, and restaurants, with live location markers and route-distance calculation in a responsive, mobile-first layout.
 
-<img src="https://skillicons.dev/icons?i=python" height="28"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" height="22"/>
+`JavaScript` `Leaflet.js` `GitHub Pages`
 
-</td>
-<td width="50%" valign="top">
+### Salon Website
+A responsive salon website showcasing services, pricing, and appointment/contact details with a clean, modern interface.
 
-**[🗺️ Smart City Explorer](https://khushisharma7891.github.io/Smart-City-Explorer-/)**
+`HTML5` `CSS3` `JavaScript`
 
-Interactive map app to locate nearby hospitals, metro stations, and restaurants with live markers and route-distance calculation.
-
-<img src="https://skillicons.dev/icons?i=js" height="28"/> <img src="https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white" height="22"/> <img src="https://skillicons.dev/icons?i=html,css" height="28"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**💇 Salon Website**
-
-A responsive salon website with service listings, pricing, and appointment/contact sections in a clean, modern interface.
-
-<img src="https://skillicons.dev/icons?i=html,css,js" height="28"/>
-
-</td>
-<td width="50%" valign="top">
-
-**[🔗 URL Shortener](https://github.com/Khushisharma7891/Code-with-python)**
-
+### [URL Shortener](https://github.com/Khushisharma7891/Code-with-python)
 A Python tool that converts long URLs into short, shareable links — built to strengthen core programming logic and string handling.
 
-<img src="https://skillicons.dev/icons?i=python" height="28"/>
+`Python`
 
-</td>
-</tr>
-</table>
+<br>
 
 ## Certifications
 
@@ -93,15 +65,19 @@ A Python tool that converts long URLs into short, shareable links — built to s
 - Python Developer (Virtual Internship) — CodeClause
 - Diploma in Computer Applications — MS Office, MIS, Advanced Excel, Tally
 
+<br>
+
 ## GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Khushisharma7891&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Khushisharma7891&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Khushisharma7891&show_icons=true&theme=default&hide_border=true&title_color=6C63FF&icon_color=6C63FF"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Khushisharma7891&theme=default&hide_border=true&ring=6C63FF&fire=6C63FF"/>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Khushisharma7891&label=Profile%20Views&color=6C63FF&style=flat-square" />
-</p>
+<br>
 
-<p align="center"><i>Thanks for stopping by — feel free to reach out if you'd like to connect or collaborate.</i></p>
+<div align="center">
+
+*Thanks for stopping by — feel free to reach out if you'd like to connect or collaborate.*
+
+</div>
